@@ -1,0 +1,17 @@
+.footer {
+    background-color: rgb(179, 255, 182);
+    height: 35px;
+    width: 100%;
+    justify-content: space-around;
+    align-content: flex-start;
+    display: flex;
+    flex-flow: row wrap;
+    position: fixed;
+    bottom: 0;
+    align-content: left;
+}
+
+.text {
+    text-emphasis: 700%;
+
+}

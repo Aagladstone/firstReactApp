@@ -1,0 +1,17 @@
+.card {
+
+        height: 200px;
+        margin: 10px;
+        position: relative;
+        width: 200px;
+
+}
+
+.card > img {
+    width: 60%
+    
+  }
+
+/* .container {
+    padding-right: 900px;
+} */

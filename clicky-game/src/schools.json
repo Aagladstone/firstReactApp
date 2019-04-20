@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Baylor University",
+      "image": "https://s3media.247sports.com/Uploads/Assets/635/176/9176635.jpg"
+    },
+    {
+      "id": 2,
+      "name": "University of Texas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Texas_Longhorns_logo.svg/1280px-Texas_Longhorns_logo.svg.png"
+    },
+    {
+      "id": 3,
+      "name": "Texas Christian University",
+      "image": "https://fanapeel.com/wp-content/uploads/logo_-texas-christian-university-horned-frogs-frog.png"
+    },
+    {
+      "id": 4,
+      "name": "Sam Houston State University",
+      "image": "https://staticx.ibncollege.com/wcsstore/ExtendedSitesCatalogAssetStore/986_300_10_162950463_NI/images/LARGEIMAGE_1092409.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Stephen F. Austin University",
+      "image": "https://sfasportscience.com/wp-content/uploads/2018/03/SFA-Logo.png"
+    },
+    {
+      "id": 6,
+      "name": "University of North Texas",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/North_Texas_Mean_Green_logo.svg/1200px-North_Texas_Mean_Green_logo.svg.png"
+    },
+    {
+      "id": 7,
+      "name": "University of Houston",
+      "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022016/universityofhouston_cougars_logo.jpg?itok=WEWXZECp"
+    },
+    {
+      "id": 8,
+      "name": "Texas Tech University",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Texas_Tech_Athletics_logo.svg/519px-Texas_Tech_Athletics_logo.svg.png"
+    },
+    {
+      "id": 9,
+      "name": "Rice University",
+      "image": "https://cdn.worldvectorlogo.com/logos/rice-owls.svg"
+    },
+    {
+      "id": 10,
+      "name": "University Texas San Antonio",
+      "image": "https://www.utsa.edu/mbrs/resources/logos/Rowdy.png"
+    },
+    {
+      "id": 11,
+      "name": "Texas State University",
+      "image": "https://www.txstate.edu/cache543e3abb5695add0d8d2584b38d5aeb4/imagehandler/scaler/gato-docs.its.txstate.edu/jcr:400e935d-932a-4d86-a2f8-41a6b8718b8a/Secondary_RGB_MRN-GLD.png?mode=fit&width=750"
+    },
+    {
+      "id": 12,
+      "name": "University Texas El Paso",
+      "image": "https://seeklogovector.net/wp-content/uploads/2018/11/utep-miners-logo-vector.png  "
+    }
+  ]
