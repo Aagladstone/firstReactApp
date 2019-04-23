@@ -1,22 +1,16 @@
 import React from "react";
-import Guesses from './Guesses'
-import Title from './Title'
-import Score from './Score'
 import "./style.css";
 
 class Header extends React.Component {
+  
+  // scoring() {
+  //   this.setState({score: this.state.score + 1});
+  // }
 
-  state = {
-    score: 0
-  };
 
   render() {
   return (
-  <div className="header">
-  <Guesses> </Guesses>
-  <Title> </Title>
-  <Score> </Score>
-  </div>
+  <div className="header"> </div>
   );
 
   }
