@@ -8,7 +8,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
   },
-  "homepage": "https://github.com/Aagladstone/firstReactApp",
+  "homepage": "https://github.com/Aagladstone.github.io/firstReactApp",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
